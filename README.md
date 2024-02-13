@@ -1,7 +1,7 @@
 ## Readme
 - 👋 Hi, I’m @lakicsdomi
 - 👀 I’m interested in C, C#, Java, Haskell, Python
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Computer Science (Bsc) at Eötvös Lóránd University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lakicsdomi@gmail.com
 <!---
